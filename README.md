@@ -1,11 +1,16 @@
 # Анализ зарплат в России
 
+autor: Borislove
 ----------------------------
-Данные об уровне инфляции в стране [link](https://xn----ctbjnaatncev9av3a8f8b.xn--p1ai/%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D1%8B-%D0%B8%D0%BD%D1%84%D0%BB%D1%8F%D1%86%D0%B8%D0%B8)
+Данные об уровне инфляции в стране [original link](https://xn----ctbjnaatncev9av3a8f8b.xn--p1ai/%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D1%8B-%D0%B8%D0%BD%D1%84%D0%BB%D1%8F%D1%86%D0%B8%D0%B8)
+
+Dataset:
+[link](https://github.com/Borislove/files/blob/main/data/infl_rab.xlsx)
 
 ----------------------------
-Данные о "Среднемесячной номинальной начисленной заработной плате работников организаций по видам экономической деятельности в Российской Федерации за 2000-2023 гг." [link](https://rosstat.gov.ru/labor_market_employment_salaries)
+Данные о "Среднемесячной номинальной начисленной заработной плате работников организаций по видам экономической деятельности в Российской Федерации за 2000-2023 гг." [original link](https://rosstat.gov.ru/labor_market_employment_salaries)
 
+Dataset:  [link](https://github.com/Borislove/files/blob/main/data/tab3-zpl_2023.xlsx)
 
 ----------------------------
 processed 
