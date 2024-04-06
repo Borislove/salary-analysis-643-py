@@ -20,5 +20,5 @@ Dataset: [link](https://raw.githubusercontent.com/Borislove/files/main/data/data
 
 Безработица: [link]()
 
-Бедность: [link](https://github.com/Borislove/files/blob/main/data/poverty1.csv]
+Бедность: [link](https://github.com/Borislove/files/blob/main/data/poverty1.csv)
 
