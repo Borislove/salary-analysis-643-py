@@ -17,3 +17,6 @@ processed
 Dataset: [link](https://raw.githubusercontent.com/Borislove/files/main/data/data.csv)
 
 ВВП: [link](https://github.com/Borislove/files/blob/main/data/VVP.csv)
+
+Безработица: [link](https://github.com/Borislove/files/blob/main/data/VVP.csv)
+
