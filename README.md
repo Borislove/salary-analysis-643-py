@@ -22,3 +22,5 @@ Dataset: [link](https://raw.githubusercontent.com/Borislove/files/main/data/data
 
 Бедность: [link](https://github.com/Borislove/files/blob/main/data/poverty1.csv)
 
+----------------------------
+Jupyter Notebook: [link](https://colab.research.google.com/drive/1__uwd5B6P4gAb0C6MLOVerAO9ibBwPl1?usp=sharing)
