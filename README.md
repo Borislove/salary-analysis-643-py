@@ -27,4 +27,4 @@ Jupyter Notebook: [link](https://colab.research.google.com/drive/1__uwd5B6P4gAb0
 
 ----------------------------
  # Demo app
- жми сюда --> [![Streamlit App](https://salary-analysis-643-py-3ssxu5sb9uthv363vbjzyd.streamlit.app)
+  жми сюда --> [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://salary-analysis-643-py-3ssxu5sb9uthv363vbjzyd.streamlit.app)
