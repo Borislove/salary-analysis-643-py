@@ -49,7 +49,8 @@ else:
     plt.legend(['номинальные'], loc='best')
     st.write(plt.figure(fig))
 
-st.image(image='\salary-analysis-643-py\src\pages\security.jpg', caption='security')
+#st.image(image='\salary-analysis-643-py\src\pages\security.jpg', caption='security')
+st.image('security.jpg', caption='security')
 
 
 st.write('''
