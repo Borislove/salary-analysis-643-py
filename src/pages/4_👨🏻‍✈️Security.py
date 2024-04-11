@@ -6,7 +6,7 @@ import streamlit as st
 
 # ------------Option---------
 pd.options.display.expand_frame_repr = False
-matplotlib.use('Qt5Agg')
+#matplotlib.use('Qt5Agg')
 # ---------DATA-------------
 url = 'https://raw.githubusercontent.com/Borislove/files/main/data/data.csv'
 DATA = pd.read_csv(url, index_col=0)
