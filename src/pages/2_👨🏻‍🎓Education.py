@@ -55,7 +55,8 @@ else:
 
 
 # image = Image.open('education.jpg')
-st.image(image='\salary-analysis-643-py\src\pages\education.jpg', caption='education')
+#st.image(image='\salary-analysis-643-py\src\pages\education.jpg', caption='education')
+st.image('src\pages\education.jpg', caption='education')
 
 
 st.write('''
