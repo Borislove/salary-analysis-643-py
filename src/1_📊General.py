@@ -45,9 +45,10 @@ st.write(plt.figure(fig2))
 
 st.write('------------------------------------------------------------------------------------------------')
 #st.image(image='..\salary-analysis-643-py\src\pages\gr999.png', caption='rate of increase')
-st.image(image='src\pages\gr999.png', caption='rate of increase')
+st.image(gr999.png', caption='rate of increase')
 st.write('------------------------------------------------------------------------------------------------')
-st.image(image='\salary-analysis-643-py\src\pages\pokazatel.png', caption='pie')
+#st.image(image='\salary-analysis-643-py\src\pages\pokazatel.png', caption='pie')
+st.image(pokazatel.png', caption='pie')
 st.write('------------------------------------------------------------------------------------------------')
 st.write('Важные экономические показатели')
 # ВВП
@@ -64,13 +65,16 @@ DATA_DOP = pd.concat([DATA1, DATA2, DATA3])
 st.dataframe(data=DATA_DOP, width=1500, height=150)
 
 st.write('------------------------------------------------------------------------------------------------')
-st.image(image='\salary-analysis-643-py\src\pages\corr.png', caption='Pearson correlation coefficient')
+#st.image(image='\salary-analysis-643-py\src\pages\corr.png', caption='Pearson correlation coefficient')
+st.image(corr.png', caption='Pearson correlation coefficient')
 
 st.write('------------------------------------------------------------------------------------------------')
-st.image(image='\salary-analysis-643-py\src\pages\corr_s.png', caption='Spearman correlation coefficient')
+#st.image(image='\salary-analysis-643-py\src\pages\corr_s.png', caption='Spearman correlation coefficient')
+st.image(corr_s.png', caption='Spearman correlation coefficient')
 
 st.write('------------------------------------------------------------------------------------------------')
-st.image(image='\salary-analysis-643-py\src\pages\corr_k.png', caption='Kendall correlation coefficient')
+#st.image(image='\salary-analysis-643-py\src\pages\corr_k.png', caption='Kendall correlation coefficient')
+st.image(corr_k.png', caption='Kendall correlation coefficient')
 st.write('------------------------------------------------------------------------------------------------')
 
 # ------------------------------------
