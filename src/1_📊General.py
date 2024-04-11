@@ -44,7 +44,7 @@ st.write(plt.figure(fig2))
 
 
 st.write('------------------------------------------------------------------------------------------------')
-st.image(image='\salary-analysis-643-py\src\pages\gr999.png', caption='rate of increase')
+st.image(image='..\salary-analysis-643-py\src\pages\gr999.png', caption='rate of increase')
 st.write('------------------------------------------------------------------------------------------------')
 st.image(image='\salary-analysis-643-py\src\pages\pokazatel.png', caption='pie')
 st.write('------------------------------------------------------------------------------------------------')
