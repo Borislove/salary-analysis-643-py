@@ -24,3 +24,7 @@ Dataset: [link](https://raw.githubusercontent.com/Borislove/files/main/data/data
 
 ----------------------------
 Jupyter Notebook: [link](https://colab.research.google.com/drive/1__uwd5B6P4gAb0C6MLOVerAO9ibBwPl1?usp=sharing)
+
+----------------------------
+ # Demo app
+ жми сюда --> [![Streamlit App]()
