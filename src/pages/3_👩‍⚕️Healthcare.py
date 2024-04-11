@@ -56,7 +56,8 @@ else:
 
 
 # image = Image.open('education.jpg')
-st.image(image='\salary-analysis-643-py\src\pages\healthcare.jpg', caption='healthcare')
+#st.image(image='\salary-analysis-643-py\src\pages\healthcare.jpg', caption='healthcare')
+st.image('healthcare.jpg', caption='healthcare')
 
 st.write('''Врачи, медсестры и другие специалисты здравоохранения получают сейчас гораздо больше, чем раньше, за свою работу.
 Это связано с увеличением спроса на медицинские услуги, ростом медицинских технологий и 
